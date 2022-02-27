@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://webrdt.dev/#/" ><img src="docs/_media/webrdt.svg" width="450" height="auto"/></a>
+<a href="https://webrdt.dev/#/" ><img src="_media/webrdt.svg" width="450" height="auto"/></a>
 <p align="center">
   <img src="https://img.shields.io/github/v/release/webrdt/webrdt" alt="release">
   <img src="https://img.shields.io/github/license/webrdt/webrdt" alt="license">
